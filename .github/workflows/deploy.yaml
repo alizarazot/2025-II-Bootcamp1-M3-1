@@ -1,4 +1,4 @@
-name: Deploy: M3 - Paso1
+name: Deploy (M3 - Paso1)
 
 on:
   push:

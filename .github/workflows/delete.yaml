@@ -1,4 +1,4 @@
-name: Delete: M3 - Paso1
+name: Delete (M3 - Paso1)
 
 on:
   workflow_dispatch:
