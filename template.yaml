@@ -1,6 +1,6 @@
 # Plantilla CloudFormation para arquitectura Mintic con VPC, EC2, ASG y ALB
 AWSTemplateFormatVersion: '2010-09-09'
-Description: Misión 3 - Paso 1
+Description: M3 - Paso 1
 
 Parameters:
   # Parámetro para definir el nombre del par de claves SSH
